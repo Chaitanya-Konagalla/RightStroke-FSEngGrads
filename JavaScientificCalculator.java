@@ -3,7 +3,7 @@ public class JavaScientificCalculator
 {
     public int add(int a, int b) 
     {
-		return a + b;
+	return a + b;
     }
     public float divide(int a, int b) 
     {
