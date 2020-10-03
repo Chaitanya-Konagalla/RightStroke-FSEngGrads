@@ -11,7 +11,6 @@ for(var record of customer_records)
 
 
 /*
-Output:
 
 Customer:1 name is Chaitu(Male) getting a salary of Rs.60000/-, living in Hydrabad
 Customer:2 name is Sanjay(Male) getting a salary of Rs.80000/-, living in Vijayawada
