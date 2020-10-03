@@ -25,8 +25,6 @@ Triangle_area.t_sarea();
 
 /*
 
-Output:
-
 The surface area of rectangle is 258
 The surface area of square is 25
 The surface area of triangle is 27
