@@ -24,7 +24,6 @@ Triangle_area.t_sarea();
 
 
 /*
-
 Output:
 
 The surface area of rectangle is 258
