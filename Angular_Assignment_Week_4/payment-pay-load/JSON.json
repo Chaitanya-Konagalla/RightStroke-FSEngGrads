@@ -1,0 +1,12 @@
+{
+    "Chaitanya":
+    [
+         {
+             "Id":1,
+             "Customer_Id":"Konagalla Krishna Chaitanya",
+             "Amount":50000,
+             "My_Acc_no":10523879389,
+             "Beneficiary_Acc_no":98765432108
+         }
+    ]
+}
