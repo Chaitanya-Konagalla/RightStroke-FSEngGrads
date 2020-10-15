@@ -1,0 +1,29 @@
+{
+    "Customer1":
+    [
+        {
+            "Id":1,
+             "Customer_Id":"Konagalla Krishna Chaitanya",
+             "Amount":500000,
+             "My_Acc_no":"98765432109",
+             "Beneficiary_Acc_no":"12345678901"
+        }
+    ],
+    "BannedCurrencies":
+    
+        {
+            "curr1":"CAD",
+            "curr2":"GBP",
+            "curr3":"JIC"
+        },
+    
+    "BannedAccounts":
+    
+        {
+            "acc1": "12312312312",
+            "acc2": "98778987789",
+            "acc3": "56789567895",
+            "acc4": "34534534534"
+        }
+    
+}
